@@ -1,6 +1,3 @@
-### ✅ **Task Manager Backend – TaskFlowAPI**
-
-```markdown
 # TaskFlowAPI
 
 A RESTful backend API for managing tasks with full CRUD support. Built for integration with frontend task management apps.
